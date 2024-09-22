@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dixie Normous Credit Card Security™</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Dixie Normous Credit Card Security™</h1>
+        <h2>Is your credit card number in a hacker's database?</h2>
+        <p>You can easily find out now! All you need to do is enter its information here, and we will scan thousands of hacker databases to see if any of them have matched yours.</p>
+        
+        <form id="scanForm">
+            <label for="cardNumber">Credit Card Number:</label>
+            <input type="text" id="cardNumber" required>
+
+            <label for="expiryDate">Expiration Date:</label>
+            <input type="text" id="expiryDate" placeholder="MM/YY" required>
+
+            <label for="zipCode">Your Zip Code:</label>
+            <input type="text" id="zipCode" required>
+
+            <button type="submit" id="scanButton">SCAN DATABASE</button>
+        </form>
+
+        <div id="scanning" class="hidden">
+            <h3>Scanning databases...</h3>
+            <p id="progressText">Now scanning database 0 of 3728... 0 matches found</p>
+            <div class="progress-bar">
+                <div id="progressFill"></div>
+            </div>
+        </div>
+
+        <div id="result" class="hidden">
+            <h3>Success</h3>
+            <p>Your card number did not show up in any of the hacker's databases!</p>
+            <button onclick="window.location.reload()">OK</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
