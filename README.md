@@ -1,6 +1,6 @@
-# Dixie Normous Credit Card Security™ 🔒
+# UltraSecure™ Credit Card Safety Scanner 🔒
 
-Welcome to the **Dixie Normous Credit Card Security™**! This cutting-edge, completely trustworthy software allows you to "check" if your credit card number is in a hacker's database! Don't worry, our super advanced and definitely-not-made-in-HTML technology will make sure your card number is 100% safe.*
+Welcome to the **UltraSecure™ Credit Card Safety Scanner**! This top-tier, totally legitimate software allows you to "check" if your credit card number is in a hacker's database! Don't worry, our super advanced and definitely-not-made-in-HTML technology will make sure your card number is 100% safe.*
 
 > 🚨 **Disclaimer**: This is 100% a joke. Please do NOT enter real credit card information. It won’t end well. Seriously, this is a parody project meant for laughs! 🚨
 
@@ -26,11 +26,6 @@ Welcome to the **Dixie Normous Credit Card Security™**! This cutting-edge, com
 3. Watch the magic happen as it “scans” hacker databases.
 4. Feel relieved when the software tells you your card is safe. Wow, that was easy!
 
-## Screenshots 📸
-
-![screenshot](https://example.com/screenshot.png)  
-_Proof that our “high-tech” software works!_
-
 ## Contributing 🤡
 
 Sure, go ahead and make a pull request. Maybe you can help us scan even more non-existent hacker databases! Or perhaps you'd like to add more hilarious features to make this "security software" even more believable. Just remember to keep it fun!
@@ -43,12 +38,5 @@ The real question is: **Why not?** Sometimes, we need a little humor in the worl
 
 This project is a **joke** and meant for entertainment purposes only. It’s not secure, doesn’t actually scan anything, and is in no way affiliated with any real security service. Do not input any real personal or financial information. We are not responsible for any consequences of actually trying to use this as a security tool (seriously, don’t).
 
-## License 📜
 
-MIT License
-
-> "Dixie Normous Credit Card Security™ - Keeping your credit card *fictitiously* safe since 2024!"
-
----
-
-Enjoy and feel free to share the laughs! 😂
+> "UltraSecure™ Credit Card Safety Scanner - Keeping your credit card *fictitiously* safe since 2024!"
